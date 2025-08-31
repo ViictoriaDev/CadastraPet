@@ -6,3 +6,7 @@
 - Cadastrar diferentes tipos de pets (cachorros, gatos, répteis e pássaros).
 - Consultar todos os pets cadastrados.
 - Consultar apenas filhotes de até 1 ano.
+
+# Tecnologias✅
+- .NET 9
+- C#
